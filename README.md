@@ -1,10 +1,1 @@
-# AI Engineer Project
-
-Repository untuk menyimpan materi pembelajaran AI Engineer.
-
-## Materi
-- Python
-- Git & GitHub
-- Artificial Intelligence
-- Machine Learning
-- Large Language Models
+# Digital Skola Github Sesi 4 AI Engineer`nIni adalah repo untuk belajar github dari Digital Skol
